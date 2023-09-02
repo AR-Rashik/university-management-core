@@ -1,0 +1,110 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\.d793234c4b42a8019a6133c9baa53df48d9367a1-audit.json",
+    "files": [
+        {
+            "date": 1692729797529,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-00-success.log",
+            "hash": "d057f32222cc57eb84079d09efc022c8d903587a281728b8a6e9110adcb80a88"
+        },
+        {
+            "date": 1692737870298,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-02-success.log",
+            "hash": "14248365fae262bbdce3bcd623b95c46fe5c852c5eea229a609d7baef7b00df0"
+        },
+        {
+            "date": 1692738374992,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-23-08-03-success.log",
+            "hash": "fe246d6a7b3d9be40a653648435b31c57175d8a148f7b5e5880a405f20dc1cf6"
+        },
+        {
+            "date": 1692963082708,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-25-08-17-success.log",
+            "hash": "b1958b8fcfacc5a7657ae02c1d68414b1694aa2543ddf5aef767be90d7ddd82d"
+        },
+        {
+            "date": 1692977747703,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-25-08-21-success.log",
+            "hash": "43834becc5c9c168ab1e13a0a688a277e458b7362221b8e71d76a03f763ca1b5"
+        },
+        {
+            "date": 1692992173490,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-26-08-01-success.log",
+            "hash": "5d4deb59ee0cdd5c535df6c031c6024fc3305deef7e74732474e7cfe798daf4a"
+        },
+        {
+            "date": 1692993959271,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-26-08-02-success.log",
+            "hash": "f7cdbf691c86ba92e356258e0a6cebe27f3c074e426f14df11c58c5ceef2ea2b"
+        },
+        {
+            "date": 1693029452614,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-26-08-11-success.log",
+            "hash": "9c80556cbfdc87f154300c54913d15cda571ac6b6aa1d8cda38b895135ea3181"
+        },
+        {
+            "date": 1693029609689,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-26-08-12-success.log",
+            "hash": "f752c123ee1f2e41760d61654fd21c758a4c3957cc1cd36251cdd7a493b9bb04"
+        },
+        {
+            "date": 1693333553541,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-30-08-00-success.log",
+            "hash": "b0016cbc71ec3b839814a1f1f10b4e16930ae0f4f4229ead526e5147a847cb27"
+        },
+        {
+            "date": 1693335737272,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-30-08-01-success.log",
+            "hash": "b544181d3f35f3e4d42678b72e2f90ef0ec52a8fb8051e7c3760e5e56e96d61f"
+        },
+        {
+            "date": 1693340713104,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-30-08-02-success.log",
+            "hash": "fa783c55f8710d7ecae216fcd49744efee35032045979c334766fed3ce0d561e"
+        },
+        {
+            "date": 1693342827730,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-30-08-03-success.log",
+            "hash": "3a133eb9ccb4f23e62874e2f2d59abf0b131da4bb4d684da4cf5630f3c630df1"
+        },
+        {
+            "date": 1693346678073,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-30-08-04-success.log",
+            "hash": "4c744c01ad0f6cc38dbdc843ab0e06c8f4931d52438b7a146764670c564e69f1"
+        },
+        {
+            "date": 1693386534845,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-30-08-15-success.log",
+            "hash": "356a4a19e348055c76fabcc80a0413636de0dee540cdaa013b25063fdce7fa99"
+        },
+        {
+            "date": 1693390116719,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-30-08-16-success.log",
+            "hash": "7fa22ea968b3ec3ef96a1f0866eae3f70b6d7b30f63b144f22a8ac526828e628"
+        },
+        {
+            "date": 1693396437658,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-30-08-17-success.log",
+            "hash": "302070ee6c290bdde0c252c5a3050c0e985092b5cce10a76ffcb021c5c433929"
+        },
+        {
+            "date": 1693396805009,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-30-08-18-success.log",
+            "hash": "9683852a5bcb5721f940d3143c1459392eba07d50cc068515927824e302df833"
+        },
+        {
+            "date": 1693400492382,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-30-08-19-success.log",
+            "hash": "f2dbc933bcc871676cc4533deb3ec2fff7ae1afee19d9c0696b43ed71e3807c9"
+        },
+        {
+            "date": 1693636802478,
+            "name": "E:\\Apollo Batch 1\\university-management-core-service-starter\\logs\\winston\\successes\\phu-2023-02-09-12-success.log",
+            "hash": "4a37fc36ecabb3c621d6889d3e9dc737fad454fa3d0e70b4337ac473265908a5"
+        }
+    ],
+    "hashType": "sha256"
+}
