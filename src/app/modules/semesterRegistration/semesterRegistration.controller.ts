@@ -26,7 +26,7 @@ const getAllFromDB = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Semester Registrations fetched successfully',
+    message: 'SemesterRegistrations fetched successfully',
     meta: result.meta,
     data: result.data,
   });
@@ -38,7 +38,7 @@ const getByIdFromDB = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Semester Registration fetched successfully',
+    message: 'SemesterRegistration fetched successfully',
     data: result,
   });
 });
@@ -49,7 +49,7 @@ const updateOneInDB = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Semester Registration updated successfully',
+    message: 'SemesterRegistration updated successfully',
     data: result,
   });
 });
@@ -60,7 +60,22 @@ const deleteByIdFromDB = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Semester Registration deleted successfully',
+    message: 'SemesterRegistration deleted successfully',
+    data: result,
+  });
+});
+
+const startMyRegistration = catchAsync(async (req: Request, res: Response) => {
+  const user = (req as any).user;
+  console.log(user);
+
+  const result = await SemesterRegistrationService.startMyRegistration(
+    user.userId
+  );
+  sendResponse(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Student SemesterRegistration started successfully',
     data: result,
   });
 });
@@ -71,4 +86,5 @@ export const SemesterRegistrationController = {
   getByIdFromDB,
   updateOneInDB,
   deleteByIdFromDB,
+  startMyRegistration,
 };
